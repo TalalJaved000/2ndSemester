@@ -1,0 +1,10 @@
+Melatonin,400,20
+Fentanyl,320,6
+Morphine,670,7
+Vicodin,690,3
+Percocet,960,9
+Carfentanyl,1500,4
+Imodium,500,8
+Dolophine,240,7
+Strepsils,20,120
+Panadol,50,150

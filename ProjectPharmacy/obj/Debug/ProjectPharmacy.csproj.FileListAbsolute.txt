@@ -1,0 +1,7 @@
+C:\Users\AYAT LAPTOP POINT\Desktop\Semester-2\OOP-Lab\ProjectPharmacy\ProjectPharmacy\bin\Debug\ProjectPharmacy.exe.config
+C:\Users\AYAT LAPTOP POINT\Desktop\Semester-2\OOP-Lab\ProjectPharmacy\ProjectPharmacy\bin\Debug\ProjectPharmacy.exe
+C:\Users\AYAT LAPTOP POINT\Desktop\Semester-2\OOP-Lab\ProjectPharmacy\ProjectPharmacy\bin\Debug\ProjectPharmacy.pdb
+C:\Users\AYAT LAPTOP POINT\Desktop\Semester-2\OOP-Lab\ProjectPharmacy\ProjectPharmacy\obj\Debug\ProjectPharmacy.csproj.AssemblyReference.cache
+C:\Users\AYAT LAPTOP POINT\Desktop\Semester-2\OOP-Lab\ProjectPharmacy\ProjectPharmacy\obj\Debug\ProjectPharmacy.csproj.CoreCompileInputs.cache
+C:\Users\AYAT LAPTOP POINT\Desktop\Semester-2\OOP-Lab\ProjectPharmacy\ProjectPharmacy\obj\Debug\ProjectPharmacy.exe
+C:\Users\AYAT LAPTOP POINT\Desktop\Semester-2\OOP-Lab\ProjectPharmacy\ProjectPharmacy\obj\Debug\ProjectPharmacy.pdb
